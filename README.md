@@ -1,4 +1,4 @@
-\# Superstore Sales Analytics
+﻿\# Superstore Sales Analytics
 
 
 
@@ -23,4 +23,5 @@ SQL Server 2025 · T-SQL · Python (pandas) · Power BI · Git
 
 
 🚧 In progress
+
 
